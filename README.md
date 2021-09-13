@@ -71,7 +71,3 @@ Below is a list of currently supported platforms and languages. If you wish to h
 ## Contributing
 
 All code contributions - including those of people having commit access - must go through a pull request and approved by a core developer before being merged. This is to ensure proper review of all the code.
-
-Fork the project, create a feature branch, and send us a pull request.
-
-For security issues, please email [security@appwrite.io](mailto:security@appwrite.io) instead of posting a public issue in GitHub.
